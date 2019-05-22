@@ -125,13 +125,13 @@
 
 <script id="selectedUsersTemplate" type="x-tmpl-mustache">
 {{#userList}}
-    <option value="{{id}}" selected="selected">{{username}}</option>
+    <option value="{{id}}" selected="selected">{{name}}</option>
 {{/userList}}
 </script>
 
 <script id="unSelectedUsersTemplate" type="x-tmpl-mustache">
 {{#userList}}
-    <option value="{{id}}">{{username}}</option>
+    <option value="{{id}}">{{name}}</option>
 {{/userList}}
 </script>
 
