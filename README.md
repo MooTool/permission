@@ -40,7 +40,6 @@ password: 12345678
 技术框架
 --
 
-对以上的安装步骤进行补充说明，描述如何在在线环境中安装该项目。
 使用到的框架
 项目框架：Spring MVC/Mybatis/Redis
 基础工具：Maven/Tomcat/MySQL/JDK1.8
